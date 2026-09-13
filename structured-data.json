@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Personal Portfolio 001",
+  "url": "https://www.personal-portfolio-001.com",
+  "description": "Transparent, secure, and effortless — the fintech experience customers want.",
+  "foundingDate": "2026",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer service",
+    "availableLanguage": ["English", "Urdu"]
+  },
+  "sameAs": [
+    "https://www.facebook.com/personal-portfolio-001",
+    "https://www.instagram.com/personal-portfolio-001",
+    "https://twitter.com/personal-portfolio-001"
+  ]
+}

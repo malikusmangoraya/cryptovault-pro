@@ -1,0 +1,65 @@
+{
+  "home": {
+    "title": "Home | personal-portfolio-001",
+    "description": "Welcome to personal-portfolio-001 — the leading fintech platform. Discover our services, products, and more.",
+    "canonicalUrl": "https://personal-portfolio-001.com",
+    "ogType": "website",
+    "noIndex": false,
+    "schema": "software",
+    "ogLocale": "en_US"
+  },
+  "features": {
+    "title": "Features | personal-portfolio-001",
+    "description": "Features — personal-portfolio-001",
+    "canonicalUrl": "https://personal-portfolio-001.com/features",
+    "ogType": "article",
+    "noIndex": false,
+    "schema": "software",
+    "ogLocale": "en_US"
+  },
+  "pricing": {
+    "title": "Pricing | personal-portfolio-001",
+    "description": "Pricing — personal-portfolio-001",
+    "canonicalUrl": "https://personal-portfolio-001.com/pricing",
+    "ogType": "article",
+    "noIndex": false,
+    "schema": "offer",
+    "ogLocale": "en_US"
+  },
+  "blog": {
+    "title": "Blog | personal-portfolio-001",
+    "description": "Read the latest articles and insights from personal-portfolio-001.",
+    "canonicalUrl": "https://personal-portfolio-001.com/blog",
+    "ogType": "article",
+    "noIndex": false,
+    "schema": "blog",
+    "ogLocale": "en_US"
+  },
+  "docs": {
+    "title": "Documentation | personal-portfolio-001",
+    "description": "Documentation — personal-portfolio-001",
+    "canonicalUrl": "https://personal-portfolio-001.com/docs",
+    "ogType": "article",
+    "noIndex": false,
+    "schema": null,
+    "ogLocale": "en_US"
+  },
+  "about": {
+    "title": "About | personal-portfolio-001",
+    "description": "Learn about personal-portfolio-001, our mission, team, and story.",
+    "canonicalUrl": "https://personal-portfolio-001.com/about",
+    "ogType": "article",
+    "noIndex": false,
+    "schema": "organization",
+    "ogLocale": "en_US"
+  },
+  "contact": {
+    "title": "Contact | personal-portfolio-001",
+    "description": "Get in touch with personal-portfolio-001. We're here to help.",
+    "canonicalUrl": "https://personal-portfolio-001.com/contact",
+    "ogType": "article",
+    "noIndex": false,
+    "schema": "localBusiness",
+    "ogLocale": "en_US"
+  }
+}
